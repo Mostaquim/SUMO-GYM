@@ -1,0 +1,25 @@
+J2 Trained 381
+/home/abid/ray_results/DQNTrainer_SumoEnv_2022-07-17_05-02-43mhjemz9b/checkpoint_000346/
+
+
+Exception ignored in: <function RolloutWorker.__del__ at 0x7f5b5c789670>
+Traceback (most recent call last):
+  File "/home/abid/anaconda3/envs/rlib3/lib/python3.9/site-packages/ray/util/tracing/tracing_helper.py", line 461, in _resume_span
+TypeError: 'NoneType' object is not callable
+/home/abid/anaconda3/envs/rlib3/lib/python3.9/site-packages/ray/util/tracing/
+
+j3
+/home/abid/ray_results/DQNTrainer_SumoEnv_2022-07-18_03-05-324towc1nt/
+
+j5 
+/home/abid/ray_results/DQNTrainer_SumoEnv_2022-07-18_11-43-565e3wbg2j/
+
+Outline of thesis:
+
+Objective
+Expected ray_results
+How?
+Estimated timeline
+
+Do it on notion
+Forseeable chllange?
